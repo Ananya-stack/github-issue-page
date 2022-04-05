@@ -1,0 +1,83 @@
+/* for login form */
+.login-div{
+    margin: 20px 190px auto 190px;
+    padding: auto 80px auto 70px!important;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(5, 134, 219)!important;
+}
+.input-log{
+    margin: auto 50px auto 50px!important;
+}
+.form-label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+/* for reg form */
+.reg-div{
+    margin: 20px 190px auto 190px;
+    padding: auto 80px auto 70px!important;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(5, 134, 219)!important;
+}
+.input-reg{
+    margin: auto 50px auto 50px!important;
+}
+
+/*issue editor page */
+.edit-back{
+    /* margin: 30px 90px 30px 90px; */
+    background-color: #DADBBD;
+    padding-bottom: 60px;
+}
+.issue-para{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+}
+.ck-editor{
+    margin-left: 70px;
+    margin-right: 80px;
+    margin-bottom: 30px;
+}
+/* .issue-btn{
+    margin-top: 30px;
+} */
+.inline-icon{
+    display: inline;
+    width: 70px;
+    height: 90px;
+    text-align: left;
+    margin-top: 20px!important;
+}
+.code{
+    margin-right: 30px!important;
+    margin-left: 80px;
+    margin-top: 40px!important;
+    
+}
+.codes{
+    /* display: inline; */
+    /* padding-top: 20px!important; */
+    padding: 5px!important;
+    margin: 0px!important;
+}
+.issue-content{
+    padding-bottom: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.title-issue{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.editor-data{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.copy{
+    padding-top: 25px;
+}

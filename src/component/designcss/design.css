@@ -1,0 +1,167 @@
+.home-div{
+    background-color: #0F0E0E;
+    padding-bottom: 40px;
+}
+.code-icon-part{
+    display: inline!important;
+}
+.codes{
+    color: #57606a;
+    display: inline;
+}
+.code{
+    display: inline;
+    margin-left: 60px!important;
+    margin-top: 40px!important;
+    margin-right: 70px!important;
+    margin-bottom: 30px!important;
+}
+.code-icon-content{
+    display: inline;
+    margin-top: 30px!important;
+}
+.home-part{
+    margin-left: 50px;
+    margin-right: 60px!important;
+}
+.home-content{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #636a72;
+}
+
+.card-part{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #DADBBD!important;
+}
+.card-link{
+    text-decoration: none;
+}
+
+/* issue-details */
+/* .btn{
+} */
+
+.details-card-style{
+    text-align: left;
+}
+.card-details{
+    display: inline;
+}
+
+.card-border{
+    padding-bottom: 30px!important;
+    background-color: #E5E3C9!important;
+}
+.card-icon{
+    height: 28px!important;
+    width: 65px!important;
+    margin-left: 770px!important;
+    text-align: right!important;
+}
+
+.add{
+    float: right;
+}
+.adds{
+    /* float: right; */
+    margin-bottom: 20px;
+    margin-left: 408px;
+    padding-left: 490px;
+}
+
+.form-details{
+    text-align: center;
+}
+
+.title-para{
+    text-align: left;
+    margin-left: 20px!important;
+    text-decoration: none;
+}
+.issue-card-para:hover{
+    /* color: rgb(154, 151, 184); */
+    background-color: rgb(154, 151, 184);
+}
+.issue-card{
+    margin-left: 50px!important;
+    /* background-color: #d0d7de!important; */
+    background-color: #E5E3C9!important;
+}
+.issue-card-content{
+    text-align: left;
+    margin-left: 28px!important;
+    padding-top: 4px!important;
+    padding-bottom: 0px!important;
+    font-family: 'Pathway Gothic One', sans-serif!important;
+    font-weight: bold;
+}
+.issue-card-2{
+    margin-left: 0px!important;
+    padding-left: 0px!important;
+}
+.issue-search{
+    padding-top: 10px!important;
+    padding-bottom: 11px!important;
+}
+.issue-btn{
+    margin-left: 0px!important;
+}
+.issue-card-btn{
+    margin-right: 37px!important;
+    padding-top: 11px!important;
+    padding-bottom: 10px!important;
+    color: white!important;
+}
+.issue-card-heading{
+    padding-bottom: 20px!important;
+    padding-top: 9px!important;
+    display: inline;
+    background-color: #eaeef2!important;
+    /* background-color: aliceblue!important; */
+}
+.title-para-icon{
+    padding-top: 5px!important;
+    margin-left: 0px!important;
+    color: #0c0c0c;
+    display: inline;
+}
+.issue-card-para{
+    padding-top: 7px!important;
+    display: inline;
+    margin-left: 9px!important;
+    color: black!important;
+    font-weight: 600;
+    font-family: 'IBM Plex Mono', monospace;
+}
+.title-hr{
+    padding-left: 70px!important;
+   border-top: 1px dotted;
+}
+
+/* raise issue */
+.issue-title{
+    font-family: 'Rokkitt', serif;
+    font-weight: bold;
+}
+
+/* issue details */
+.issue-title-para{
+    padding-left: 20px!important;
+    padding-top: 10px!important;
+}
+.issue-title-text{
+    padding-left: 20px!important;
+}
+.copyrighnt-home{
+    background-color: #6e6d6d;
+    padding-bottom: 40px!important;
+}
+
+/* comment */
+.comment-content{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px!important;
+    font-weight: 390!important;
+}
